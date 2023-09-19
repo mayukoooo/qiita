@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d63a2de9-0d81-4d2f-b088-291860dae60c" name="変更" comment="add initial commit">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/qiita.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/articles/20230205.md" beforeDir="false" />
+    <list default="true" id="d63a2de9-0d81-4d2f-b088-291860dae60c" name="変更" comment="add: 1年目やればよかったこと追記">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/20230913.md" beforeDir="false" afterPath="$PROJECT_DIR$/public/20230913.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,12 +16,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2VLVWiSNSoy0wIfuJ0MRZCgWgZJ" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -33,21 +33,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/yamagishimayuko/Desktop/project/qiita",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/yamagishimayuko/Desktop/project/qiita&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="アプリケーションレベル" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="デフォルトタスク">
@@ -57,7 +57,59 @@
       <option name="presentableId" value="Default" />
       <updated>1694615380559</updated>
       <workItem from="1694615381734" duration="1073000" />
+      <workItem from="1694616465282" duration="9228000" />
+      <workItem from="1694765709823" duration="5850000" />
+      <workItem from="1695099712992" duration="12385000" />
     </task>
+    <task id="LOCAL-00001" summary="add: initial commit">
+      <option name="closed" value="true" />
+      <created>1694616561900</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1694616561900</updated>
+    </task>
+    <task id="LOCAL-00002" summary="refactor: クリーンコードを知る">
+      <option name="closed" value="true" />
+      <created>1694618190999</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1694618190999</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add: タグ追加">
+      <option name="closed" value="true" />
+      <created>1694618417548</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1694618417548</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add: タグ追加、改行削除">
+      <option name="closed" value="true" />
+      <created>1694619244570</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1694619244570</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add: タグ追加、改行削除">
+      <option name="closed" value="true" />
+      <created>1694619408062</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1694619408062</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add: 1年目やればよかったこと追記">
+      <option name="closed" value="true" />
+      <created>1694703555914</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1694703555914</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,6 +129,11 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="add initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="add initial commit" />
+    <MESSAGE value="add: initial commit" />
+    <MESSAGE value="refactor: クリーンコードを知る" />
+    <MESSAGE value="add: タグ追加" />
+    <MESSAGE value="add: タグ追加、改行削除" />
+    <MESSAGE value="add: 1年目やればよかったこと追記" />
+    <option name="LAST_COMMIT_MESSAGE" value="add: 1年目やればよかったこと追記" />
   </component>
 </project>
